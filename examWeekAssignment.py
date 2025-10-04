@@ -63,7 +63,6 @@ def main():
         else:
             print(f"{num1} % {num2} = {result}")
 
-# Run the calculator
 if __name__ == "__main__":
     main()
 
@@ -102,6 +101,5 @@ def number_guessing_game():
             print(f"Congratulations! You've guessed the number in {attempts} attempts.")
             break
 
-# Run the game
 if __name__ == "__main__":
     number_guessing_game()
