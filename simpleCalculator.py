@@ -60,6 +60,6 @@ def main():
         else:
             print(f"{num1} % {num2} = {result}")
 
-# Run the calculator
+
 if __name__ == "__main__":
     main()
